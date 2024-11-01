@@ -492,3 +492,19 @@ body, html {
 a{
     color: #e45c07;
 }
+.resume-btn {
+    display: inline-block;
+    padding: 0.5rem 1.5rem;
+    margin-top: 1rem;
+    background-color: #e45c07;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.resume-btn:hover {
+    background-color: #c94b06;
+}
+
