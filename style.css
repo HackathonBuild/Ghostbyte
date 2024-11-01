@@ -443,7 +443,7 @@ body, html {
 }
 
 /* Responsive Styling */
-@media (max-width: 650px) {
+@media (max-width: 850px) {
     .navbar {
         padding: 1rem;
     }
